@@ -11,7 +11,7 @@
 
 > **Backend**: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,python,django,flask" />
 </p>
 
 > **DevOps**: 
