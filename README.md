@@ -3,18 +3,17 @@
   <h1>Software & AI Engineering</h1>
 </div>
 
-## Actively Upskilling:
-> **Frontend**: 
+> ### FullStack Engineering: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,mui,javascript,react,nextjs" />
+  <img src="https://skills.syvixor.com/api/icons?i=sass,bootstrap,materialui,javascript,reactjs,nextjs,nodejs,expressjs,nestjs,python,django,flask,fastapi&perline=13&radius=40" alt="Skill Icons" />
 </p>
 
-> **Backend**: 
+> ### DevOps Engineering: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,python,django,flask" />
+  <img src="https://skills.syvixor.com/api/icons?i=claudeai,chatgpt,cursor,docker,kubernetes,linux,nginx,apache,grafana&perline=13&radius=40" alt="Skill Icons" />
 </p>
 
-> **DevOps**: 
+> ### AI Engineering: 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,firewall,shell" />
+  <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,numpy,pandas,pytorch,opencv,matplotlib,kaggle,huggingface,llamaindex,qdrant&perline=13&radius=40" alt="Skill Icons" />
 </p>
